@@ -49,11 +49,11 @@
 ### 方式一：直接打开（推荐）
 
 1. 下载本仓库
-2. 双击打开 `mindmap.html` 文件
+2. 双击打开 `超新星思维导图.html` 文件
 3. 开始使用
 
 ### 方式二：克隆到本地
 
 ```bash
 git clone https://github.com/supernova2185/Supernova-Mind-Map.git
-cd Supernova打开 mindmap.html
+cd Supernova打开 超新星思维导图1.2.2.html
